@@ -1,0 +1,4 @@
+C:\Users\LillianThompson\source\repos\Enums_Thompson_Lillian\obj\Debug\net6.0\Enums_Thompson_Lillian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LillianThompson\source\repos\Enums_Thompson_Lillian\obj\Debug\net6.0\Enums_Thompson_Lillian.AssemblyInfoInputs.cache
+C:\Users\LillianThompson\source\repos\Enums_Thompson_Lillian\obj\Debug\net6.0\Enums_Thompson_Lillian.AssemblyInfo.cs
+C:\Users\LillianThompson\source\repos\Enums_Thompson_Lillian\obj\Debug\net6.0\Enums_Thompson_Lillian.csproj.CoreCompileInputs.cache
